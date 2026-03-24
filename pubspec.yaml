@@ -2,6 +2,9 @@ name: trading_app
 description: Flutter Indian stock trading app
 version: 1.0.0+1
 
+flutter:
+  uses-material-design: true
+  
 environment:
   sdk: ^3.11.1
 
