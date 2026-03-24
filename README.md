@@ -25,8 +25,10 @@ This app strictly follows **Clean Architecture** with three isolated layers per 
 ---
 
 ```markdown
-![Watchlist Page](screenshots/watchlist.png)
-![Stock Detail](screenshots/stock_detail.png)
+<p align="center">
+  <img src="screenshots/watchlist.png" width="45%" />
+  <img src="screenshots/stock_detail.png" width="45%" />
+</p>
 ```
 
 ---
